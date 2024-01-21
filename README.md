@@ -28,7 +28,11 @@ the company.
 6. Build/evaluate Logistic Regression model with no interaction terms
 7. Build/evaluate Logistic Regression model that includes interaction terms (based on correlation mapping and EDA findings)
 8. Build/evaluate a third Logistic Regression model with additional interaction terms (based on correlation mapping and EDA findings)
-9. Build/evaluate two Decision Tree models - one optimized for F1 score and one optimized for Recall score
-10. Build/evaluate two Random Forest models - one optimized for F1 score and one optimized for Recall score
-11. Build/evaluate two XGBoost models - one optimized for F1 score and one optimized for Recall score
+9. Build/evaluate two Decision Tree models - one optimized for F1 score and one optimized for Recall score*
+10. Build/evaluate two Random Forest models - one optimized for F1 score and one optimized for Recall score*
+11. Build/evaluate two XGBoost models - one optimized for F1 score and one optimized for Recall score*
 12. Compare performance across the models and choose the best model(s) for deployment
+
+* Separate machine learning models were built and optimized for F1 score and Recall score for each type of model. Optimizing for Recall
+score maximizes model performance in correctly predicting all the employees who would leave the company. Optimizing for F1 score maximizes model
+balanced performance in correctly predicting both employees who would leave and stay.
