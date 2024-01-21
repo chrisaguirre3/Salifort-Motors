@@ -28,6 +28,8 @@ the company.
   </tr>
 </table>
 
+[Link to Dataset](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv)
+
 ### Analysis Plan
 
 1. Import necessary libraries/modules
