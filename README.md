@@ -1,9 +1,15 @@
-**Description:** Project to provide data-driven recommendations to help retain employees at Salifort Motors company and build a model that 
+### Description 
+
+Project to provide data-driven recommendations to help retain employees at Salifort Motors company and build a model that 
 will predict whether an employee will leave the company. # data-projects
 
-**Problem Statement:** Employee retention/satisfaction levels at Salifort Motors company are low.
+### Problem Statement 
 
-**Task:** Analyze HR employee data to determine the important factors contributing to employee retention/satisfaction and build,
+Employee retention/satisfaction levels at Salifort Motors company are low.
+
+### Task 
+
+Analyze HR employee data to determine the important factors contributing to employee retention/satisfaction and build,
 test, evaluate, and choose the best machine learning/logistic regression model(s) that predict(s) whether an employee will leave
 the company.
 
