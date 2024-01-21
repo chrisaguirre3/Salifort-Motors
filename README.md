@@ -37,6 +37,6 @@ the company.
 *Separate machine learning models were built and optimized for F1 score and Recall score for each type of model. Optimizing for Recall
 score maximizes model performance in correctly predicting all the employees who would leave the company. Optimizing for F1 score maximizes model
 balanced performance in correctly predicting both employees who would leave and stay.
-
+---
 **See Jupyter notebook (Jupyter)_Salifort_Motors_Chris Aguirre_08NOV23.ipynb in this repository to view all analysis, model construction/evaluation, and 
 findings/recommendations.**
