@@ -17,13 +17,13 @@ the company.
 
 ### The Dataset
 
-Rows: 15,000
-Columns: 10
+- Rows: 15,000
+- Columns: 10
 
 <table style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;">
   <tr style="margin: 0; padding: 0;">
     <td style="margin: 0; padding: 0; border: none; align: left;">
-      <img src="Salifort Motors Dataset Variables.png" alt="Dataset Variables" width="600" height="400" style="width:4000px;margin: 0; padding: 0; display: block;"/>
+      <img src="Salifort Motors Dataset Variables.png" alt="Dataset Variables" width="600" height="500" style="width:4000px;margin: 0; padding: 0; display: block;"/>
     </td>
   </tr>
 </table>
