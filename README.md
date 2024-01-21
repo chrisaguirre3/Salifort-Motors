@@ -40,5 +40,5 @@ balanced performance in correctly predicting both employees who would leave and 
 
 ---
 
-**See Jupyter notebook (Jupyter)_Salifort_Motors_Chris Aguirre_08NOV23.ipynb in this repository to view all analysis, model construction/evaluation, and 
+**See Jupyter notebook (Jupyter)_Salifort_Motors_Chris Aguirre_08NOV23.ipynb in this repository to view all analysis, model construction/evaluation/selection, and 
 findings/recommendations.**
