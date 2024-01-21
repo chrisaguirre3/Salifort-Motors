@@ -41,6 +41,8 @@ the company.
 score maximizes model performance in correctly predicting all the employees who would leave the company. Optimizing for F1 score maximizes model
 balanced performance in correctly predicting both employees who would leave and stay.
 
+**Feature Importances from the machine learning models were used to further guide EDA.
+
 ---
 
 ### Repository Files
