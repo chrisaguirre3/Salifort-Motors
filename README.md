@@ -17,8 +17,8 @@ the company.
 
 ### The Dataset
 
-- Rows: 15,000
-- Columns: 10
+- **Rows:** 15,000
+- **Columns:** 10
 
 <table style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;">
   <tr style="margin: 0; padding: 0;">
