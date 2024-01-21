@@ -26,8 +26,8 @@ the company.
    relationships with the highest correlations)
 5. EDA summary with resulting recommendations
 6. Build/evaluate Logistic Regression model with no interaction terms
-7. Build/evaluate Logistic Regression model that includes interaction terms
-8. Build/evaluate a third Logistic Regression model with more interaction terms
+7. Build/evaluate Logistic Regression model that includes interaction terms (based on correlation mapping and EDA findings)
+8. Build/evaluate a third Logistic Regression model with additional interaction terms (based on correlation mapping and EDA findings)
 9. Build/evaluate two Decision Tree models - one optimized for F1 score and one optimized for Recall score
 10. Build/evaluate two Random Forest models - one optimized for F1 score and one optimized for Recall score
 11. Build/evaluate two XGBoost models - one optimized for F1 score and one optimized for Recall score
