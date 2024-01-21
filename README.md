@@ -24,15 +24,16 @@ the company.
    - Outliers
 4. Perform full EDA (analyzing relationships between each variable with every other variable, prioritizing analysis for variable
    relationships with the highest correlations)
-5. EDA summary with resulting recommendations
-6. Build/evaluate Logistic Regression model with no interaction terms
-7. Build/evaluate Logistic Regression model that includes interaction terms (based on correlation mapping and EDA findings)
-8. Build/evaluate a third Logistic Regression model with additional interaction terms (based on correlation mapping and EDA findings)
-9. Build/evaluate two Decision Tree models - one optimized for F1 score and one optimized for Recall score*
-10. Build/evaluate two Random Forest models - one optimized for F1 score and one optimized for Recall score*
-11. Build/evaluate two XGBoost models - one optimized for F1 score and one optimized for Recall score*
-12. Compare performance across the models and choose the best model(s) for deployment
-13. Provide final recommendations/next steps
+   - Data wrangling and feature engineering
+6. EDA summary with resulting recommendations
+7. Build/evaluate Logistic Regression model with no interaction terms
+8. Build/evaluate Logistic Regression model that includes interaction terms (based on correlation mapping and EDA findings)
+9. Build/evaluate a third Logistic Regression model with additional interaction terms (based on correlation mapping and EDA findings)
+10. Build/evaluate two Decision Tree models - one optimized for F1 score and one optimized for Recall score*
+11. Build/evaluate two Random Forest models - one optimized for F1 score and one optimized for Recall score*
+12. Build/evaluate two XGBoost models - one optimized for F1 score and one optimized for Recall score*
+13. Compare performance across the models and choose the best model(s) for deployment
+14. Provide final recommendations/next steps
 
 *Separate machine learning models were built and optimized for F1 score and Recall score for each type of model. Optimizing for Recall
 score maximizes model performance in correctly predicting all the employees who would leave the company. Optimizing for F1 score maximizes model
