@@ -41,6 +41,8 @@ balanced performance in correctly predicting both employees who would leave and 
 
 ---
 
+### Repository Files
+
 **See the [Jupyter Notebook]((Jupyter)_Salifort_Motors_Chris%20Aguirre_08NOV23.ipynb) in this repository to view all analysis, model construction/evaluation/selection, and exhaustive findings/recommendations.**
 
 **See the [Executive Summary](Salifort%20Motors%20Executive%20Summary_Chris%20Aguirre.pdf) in this repository, outlining key findings, recommendations, next steps, and champion predictive models to deploy.**
