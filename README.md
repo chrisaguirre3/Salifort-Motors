@@ -75,7 +75,7 @@ Lastly, the satisfaction level variable could be a source of data leakage when u
 
 Including the above information in the dataset would greatly improve the company's ability to gain insights into what contributes to employee satisfaction/dissatisfaction and whether an employee is likely to leave vs. stay.
 
-Data Duplicates.
+**Data Duplicates.**
 
 HR should find the source(s) of the duplicates found in this dataset and figure out a way to eliminate or at least decrease them in future data gathering efforts. A few duplicates is not a real issue but when duplicates make up a large portion of the data (in this case over 20%), they inflate survey response rates and can cause data gathering efforts to stop prematurely when the data gathering team thinks they have enough unique responses, but in fact do not due to the duplicate reponses. If the duplicate responses in this dataset were instead unique responses, that would have meant that much more data to use for analysis and training/testing predictive models.
 
