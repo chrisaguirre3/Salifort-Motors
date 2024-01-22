@@ -1,6 +1,6 @@
 # Salifort Motors
 
-### <u>Description</u> 
+### Description 
 
 Providing data-driven recommendations to help retain employees at Salifort Motors company and building/selecting a model that 
 will predict whether an employee will leave the company.
