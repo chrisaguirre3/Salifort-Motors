@@ -33,7 +33,7 @@ the company.
 
 ### Analysis Plan
 
-1. Import necessary libraries/modules [Link to Code/Output](https://github.com/chrisaguirre3/Salifort-Motors/blob/c098364b273e9a7fe6a13bce52d3baafea52743d/(Jupyter)_Salifort_Motors_Chris%20Aguirre_08NOV23.ipynb#L1#scrollTo=WF7KTMczLM17&line=3) 
+1. Import necessary libraries/modules [Link to Code/Output](https://github.com/chrisaguirre3/Salifort-Motors/blob/c098364b273e9a7fe6a13bce52d3baafea52743d/(Jupyter)_Salifort_Motors_Chris%20Aguirre_08NOV23.ipynb#L1#scrollTo=L1&line=1) 
 2. Perform initial EDA
 3. Conduct data cleaning
    - Rename columns for readability/conciseness
