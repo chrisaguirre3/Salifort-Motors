@@ -50,7 +50,7 @@ the company.
 10. Build/evaluate two Decision Tree models - one optimized for F1 score and one optimized for Recall score* [code/output](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#dt_f1)
 11. Build/evaluate two Random Forest models - one optimized for F1 score and one optimized for Recall score* [code/output](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#rf_f1)
 12. Build/evaluate two XGBoost models - one optimized for F1 score and one optimized for Recall score* [code/output](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#xgb_f1)
-13. Compare performance across the models and choose the best model(s) for deployment
+13. Compare performance across the models and choose the best model(s) for deployment<br>
     [model selection/evaluation](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#model-selection)
 14. Provide final recommendations/next steps [final recommendations/next steps](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#recommendations)
 
