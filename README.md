@@ -34,25 +34,25 @@ the company.
 ### Analysis Plan
 
 1. Import necessary libraries/modules
-2. Perform initial EDA [code/output](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#initial-eda)
-3. Conduct data cleaning [code/output](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#initial-eda)
+2. Perform initial EDA [Initial EDA](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#initial-eda)
+3. Conduct data cleaning [Data Cleaning](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#initial-eda)
    - Rename columns for readability/conciseness
    - Nulls
    - Duplicates
    - Outliers
 4. Perform full EDA (analyzing relationships between each variable with every other variable, prioritizing analysis for variable
-   relationships with the highest correlations) [code/output](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#eda)
+   relationships with the highest correlations) [Full EDA](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#eda)
    - Data wrangling and feature engineering
-6. EDA summary with resulting recommendations [EDA summary](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#edasummary)
-7. Build/evaluate Logistic Regression model with no interaction terms [code/output](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#lr1)
-8. Build/evaluate Logistic Regression model that includes interaction terms (based on correlation mapping and EDA findings) [code/output](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#lr2)
-9. Build/evaluate a third Logistic Regression model with additional interaction terms (based on correlation mapping and EDA findings) [code/output](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#lr3)
-10. Build/evaluate two Decision Tree models - one optimized for F1 score and one optimized for Recall score* [code/output](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#dt_f1)
-11. Build/evaluate two Random Forest models - one optimized for F1 score and one optimized for Recall score* [code/output](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#rf_f1)
-12. Build/evaluate two XGBoost models - one optimized for F1 score and one optimized for Recall score* [code/output](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#xgb_f1)
+6. EDA summary with resulting recommendations [EDA Summary](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#edasummary)
+7. Build/evaluate Logistic Regression model with no interaction terms [Logistic Regression 1](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#lr1)
+8. Build/evaluate Logistic Regression model that includes interaction terms (based on correlation mapping and EDA findings) [Logistic Regression 2](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#lr2)
+9. Build/evaluate a third Logistic Regression model with additional interaction terms (based on correlation mapping and EDA findings) [Logistic Regression 3](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#lr3)
+10. Build/evaluate two Decision Tree models - one optimized for F1 score and one optimized for Recall score* [F1 Optimized Decision Tree](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#dt_f1) [Recall Optimized Decision Tree](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#dt_recall)
+11. Build/evaluate two Random Forest models - one optimized for F1 score and one optimized for Recall score* [F1 Optimized Random Forest](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#rf_f1) [Recall Optimized Random Forest](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#rf_recall)
+12. Build/evaluate two XGBoost models - one optimized for F1 score and one optimized for Recall score* [F1 Optimized XGBoost](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#xgb_f1) [Recall Optimized XGBoost](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#xgb_recall)
 13. Compare performance across the models and choose the best model(s) for deployment<br>
-    [model selection/evaluation](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#model-selection)
-14. Provide final recommendations/next steps [final recommendations/next steps](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#recommendations)
+    [Model Selection/Evaluation](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#model-selection)
+14. Provide final recommendations/next steps [Final Recommendations/Next Steps](https://nbviewer.org/github/chrisaguirre3/Salifort-Motors/blob/main/%28Jupyter%29_Salifort_Motors_Chris%20Aguirre_FINAL.ipynb#recommendations)
 
 *Separate machine learning models were built and optimized for F1 score and Recall score for each type of model. Optimizing for Recall
 score maximizes model performance in correctly predicting all the employees who would leave the company. Optimizing for F1 score maximizes model
